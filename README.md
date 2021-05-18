@@ -1,3 +1,4 @@
+$ java -jar bfg.jar --strip-blobs-bigger-than 100M some-big-repo.git
 # Decision-Analysis-2021
 The project focuses on analyzing decision alternatives using the payoff table. It has two conditions: under uncertainty "without probabilities" (by applying the three approaches: optimistic, pessimistic and regret) in case of revenues or costs and under risk "with probabilities" (by calculating the EVUR and EVUC to get the EVPI). The project is done using the C# language. 
 ## Decision alternatives with probabilities:
