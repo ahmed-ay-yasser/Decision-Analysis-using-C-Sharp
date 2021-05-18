@@ -9,6 +9,7 @@ Finally, we get the absoluate difference between EVUR and EVUC which will be ref
 - Optimistic approach (Maximax): We get the maximum value of each row and select the maximum of them.
 - Pessimistic "Conservative" approach (Maximin): We get the minimum value of each row and select the maximum of them.
 - Regret approach (Minimax): First, we select the maximum of every column. Then, we create a table in which each value is subtracted from the maximum of the column where it exists. Finally, from this new table, we get the maximum value of each row and select the minimum of them.
+
 *2. In case of Cost*
 - Optimistic approach (Minimin): We get the minimum value of each row and select the minimum of them.
 - Pessimistic "Conservative" approach (Minimax): We get the maximum value of each row and select the minimum of them.
