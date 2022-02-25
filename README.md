@@ -1,4 +1,4 @@
-# Decision Analysis 2021
+# Decision Analysis using C#
 The project focuses on analyzing decision alternatives using the payoff table. It has two conditions: under uncertainty "without probabilities" (by applying the three approaches: optimistic, pessimistic and regret) in case of revenues or costs and under risk "with probabilities" (by calculating the EVUR and EVUC to get the EVPI). The project is done using the C# language. 
 ## Decision alternatives with probabilities:
 First, we compute the EVUR "Expected Value Under Risk" by multiplying each alternative by the probability of the decision and select the maximum value (in case of revenue) and the minimum (in case of cost)
